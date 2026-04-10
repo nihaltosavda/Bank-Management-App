@@ -19,5 +19,5 @@ A simple banking system built using Python and Streamlit.
 ```bash
 pip install streamlit
 streamlit run app.py
-
+```
 main.py is basic python file which run locally on your terminal
