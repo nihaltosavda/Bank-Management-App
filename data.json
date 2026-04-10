@@ -1,0 +1,26 @@
+[
+    {
+        "name": "penguinn",
+        "age": 26,
+        "email": "maababa@gmail.com",
+        "pin": 2102,
+        "account_number": "1234",
+        "balance": 0
+    },
+    {
+        "name": "angrybird",
+        "age": 21,
+        "email": "gaurishankar@gmail.com",
+        "pin": 2621,
+        "account_number": "O85%4ju",
+        "balance": 1000
+    },
+    {
+        "name": "Nihal",
+        "age": 21,
+        "email": "nihaltosavda@gmail.com",
+        "pin": "bcb1ac2aaaf1d367b9fd960eb0cee5709a3fd9d0c99a53b19795a32588353c3b",
+        "account_number": "CEKiluhQ",
+        "balance": 0
+    }
+]
